@@ -1,10 +1,12 @@
 /* CALCOLO e STAMPA della MEDIA ARITMETICA
     di 5 numeri inseriti dall'UTENTE. 
     
-    N.B Se si volesse aumentare o diminuire i numeri
+    N.B Se si volessero aumentare o diminuire i numeri
         su cui calcolare la MEDIA ARITMETICA,
-        basterà modificare il valore della variabile numeri
-    P.S.: per i numeri decimali usare la virgola e non il punto */
+        basterà modificare il valore della variabile "numeri".
+    
+    P.S.: in fase di inserimento, per i numeri decimali 
+        usare la virgola e non il punto */
 
 import java.util.*;
 
