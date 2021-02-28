@@ -40,7 +40,7 @@
     
             for (int i = 1; i <= numseq; i++)
                 System.out.println("F[" + i + "] vale " + fibonacci(i));
-            System.out.print("Quindi Sequenza di Fibonacci (con n = " + numseq + ") ->  ");
+            System.out.print("Quindi SUCCESSIONE di FIBONACCI (con n = " + numseq + ") ->  ");
             for (int i = 1; i <= numseq; i++)
                 System.out.print(fibonacci(i) + "  ");
         }
