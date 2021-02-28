@@ -7,7 +7,7 @@
         2) return 5 + somma(5,1)
             3) return 5 + sommaRicorsiva (5,0)
                 4) return 0
-    Il risultato finale è quindi pari a -> 5 + 5 + 5 + 0 = 15*/
+    Il risultato finale sarà quindi pari a -> 5 + 5 + 5 + 0 = 15*/
 
 import java.util.*;
 
